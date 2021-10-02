@@ -1,4 +1,4 @@
-/* Test Comment MG */
+/* Test Comment MG 2 */
 
 #ifndef _SICKSAXIS_H_
 #define _SICKSAXIS_H_
