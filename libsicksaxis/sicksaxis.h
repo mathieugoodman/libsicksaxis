@@ -1,3 +1,5 @@
+/* Test Comment MG */
+
 #ifndef _SICKSAXIS_H_
 #define _SICKSAXIS_H_
 
