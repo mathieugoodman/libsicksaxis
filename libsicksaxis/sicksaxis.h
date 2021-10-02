@@ -8,6 +8,9 @@
 
 #define SS_HEAP_SIZE    4096
 #define SS_MAX_DEV      8
+/* Just a noob trying to add support for multiple PS3 devices */
+/* uint16 ss_vendor_ids[2] = {0x054C, 0x0F0D} */
+/* uint16 ss_product_ids[2] = {0x0268, 0x008B} */
 #define SS_VENDOR_ID    0x054C
 #define SS_PRODUCT_ID   0x0268
 #define SS_PAYLOAD_SIZE 49
